@@ -6,7 +6,7 @@ dirhtml=$dirbase/shownotes/html
 css=style.css
 
 cat $dirbase/template.md > index.md
-for md in `ls $dirmd/*.md`
+for md in `ls -r $dirmd/*.md`
 do
         if [ $md != $dirmd"/template.md" ];then
                 html=`echo $md | sed "s@$dirmd/@@;s/md/html/g"`

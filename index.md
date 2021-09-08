@@ -8,19 +8,20 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 ------
 
 ## Episodes
+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
+https://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/github.com/junishigohoka/StopCodonTest.git
+### [ 2. Wake up, Neo(-sex chromosome)...](002.html)
+
+性染色体遺伝子量補償のメカニズムを2つ持ち合わせたチョウの論文を紹介しました。
+
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/2--Wake-up--Neo-sex-chromosome-e13un3q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
 
 ### [ 1. 非ラジオ少年は研究者の夢を見るか](001.html)
 
 自己紹介と雑談をしました。
 
 <iframe src="https://anchor.fm/stopcodon/embed/episodes/1-e12slo5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
-
-### [ 2. Wake up, Neo(-sex chromosome)...](002.html)
-
-性染色体遺伝子量補償のメカニズムを2つ持ち合わせたチョウの論文を紹介しました。
-
-<iframe src="https://anchor.fm/stopcodon/embed/episodes/2--Wake-up--Neo-sex-chromosome-e13un3q" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
 
