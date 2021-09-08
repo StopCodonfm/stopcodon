@@ -9,7 +9,7 @@ cat $dirbase/template.md > index.md
 for md in `ls -r $dirmd/*.md`
 do
         if [ $md != $dirmd"/template.md" ];then
-                html=`echo $md | sed "s@$dirmd/@@;s/md/html/g"`
+                html=`echo $md | sed "s@$dirmd@episodes@;s/md/html/g"`
                 prefix=`echo $md | sed "s@$dirmd/@@;s/.md//"`
                 pandoc $md -s -c $css -o $html
                 #cp $html .
