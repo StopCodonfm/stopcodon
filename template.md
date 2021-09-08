@@ -8,5 +8,4 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 ------
 
 ## Episodes
-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
-https://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/github.com/junishigohoka/StopCodonTest.git
+
