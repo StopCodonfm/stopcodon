@@ -9,6 +9,13 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 8. 社会派スイミーの行動遺伝](episodes/008.html)
+
+
+
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/8-e175vns" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### [ 7. Self-organising spaghetti monster](episodes/007.html)
 
 染色体を分配する紡錘体の構造の安定性を解析した論文を紹介しました。
