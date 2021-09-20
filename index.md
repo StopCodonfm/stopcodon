@@ -11,7 +11,7 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ### [ 8. 社会派スイミーの行動遺伝](episodes/008.html)
 
-
+Social genetic effectsに関する論文を紹介しました。
 
 <iframe src="https://anchor.fm/stopcodon/embed/episodes/8-e175vns" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
