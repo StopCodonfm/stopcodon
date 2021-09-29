@@ -13,7 +13,7 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 紡錘体形成チェックポイントの恒常性が mRNA のコドン使用頻度によって担保されることを報告した論文を紹介しました。
 
-<iframe src="https://anchor.fm/stopcodon/episodes/9-e181ouq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/9-e181ouq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
 ### [ 8. 社会派スイミーの行動遺伝](episodes/008.html)
