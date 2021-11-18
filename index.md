@@ -9,6 +9,13 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 10. The rhino in the room](episodes/010.html)
+
+サイのゲノム論文を紹介しました。
+
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/10--The-rhino-in-the-room-e1afre3" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### [ 9. じめじめざわざわ](episodes/009.html)
 
 紡錘体形成チェックポイントの恒常性が mRNA のコドン使用頻度によって担保されることを報告した論文を紹介しました。
