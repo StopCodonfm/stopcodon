@@ -9,6 +9,13 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 11. Haiku in CV ](episodes/011.html)
+
+雑談しました
+
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/11--Haiku-in-CV-e1alv02" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### [ 10. The rhino in the room](episodes/010.html)
 
 サイのゲノム論文を紹介しました。
