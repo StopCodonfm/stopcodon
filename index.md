@@ -9,6 +9,13 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 13. 792人がハイライトしました](episodes/013.html)
+
+年越し雑談しました。
+
+<iframe src="https://anchor.fm/stopcodon/embed/episodes/13--792-e1cjv31" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+
 ### [ 12. Recombinatorial entanglement ](episodes/012.html)
 
 大腸菌において DNA の相同組換えを生細胞イメージングした論文を紹介しました。
