@@ -16,13 +16,13 @@ do
                 title=`awk '$0~"^### " {gsub("### ","",$0);print $0}' $md`
                 summary=`grep -A1 "Summary" $md | tail -n1`
                 anchor=`awk '$0~"^<iframe.*/iframe>$" {print $0}' $md`
-                echo "### [" $title"]("$html")"
+                links=`awk '$0~"img src=.*" {print $0}' $md`
+                echo "### [" $title"]("$html")" $links
                 echo ""
                 echo $summary
                 echo ""
-                echo $anchor
-                echo ""
-                echo ""
+                #echo $anchor
+                #echo ""
         fi
 done >> index.md
 
