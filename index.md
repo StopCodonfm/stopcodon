@@ -9,6 +9,10 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 14. All men are created at random ](episodes/014.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+「突然変異はランダムではない」から始まるツイートで話題になった論文について話しました
+
 ### [ 13. 792人がハイライトしました](episodes/013.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/jp/podcast/13-792%E4%BA%BA%E3%81%8C%E3%83%8F%E3%82%A4%E3%83%A9%E3%82%A4%E3%83%88%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/id1572672009?i=1000547147070) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/3K81D0RD2QoV24duEaIhEW) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/ODAxNDU3OWMtM2MyZS00MGMwLWI4Y2YtOGExNjk0OWUxMmI0?sa=X&ved=0CAUQkfYCahcKEwj4rejW8KT1AhUAAAAAHQAAAAAQAQ)
 
 年越し雑談しました。
