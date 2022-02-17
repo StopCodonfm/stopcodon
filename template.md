@@ -1,5 +1,5 @@
 ---
-title: "[StopCodon.fm](https://stopcodonfm.github.io/stopcodon/)"
+title: "[StopCodon.fm](https://stopcodonfm.github.io/stopcodon.fm/)"
 
 ---
 StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組です。専門分野にとらわれず面白いと思ったことをゆるく話します。
