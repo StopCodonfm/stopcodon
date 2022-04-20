@@ -9,6 +9,10 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 15. The aster the better](episodes/015.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+マウス初期胚の 8-16 細胞期に特異的な紡錘体構造を発見した論文と「データ視覚化の人類史」という本を紹介しました。
+
 ### [ 14. All men are created at random ](episodes/014.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/jp/podcast/14-all-men-are-created-at-random/id1572672009?i=1000549429623) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/6QVQ7y0MsMSkmG7No4VsIN?si=48a0505cbd914d55) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/M2IzZTE0NGUtOTBjZi00YzM2LWE0YjUtMjBlYTQ0OGYxMDVl?sa=X&ved=0CAUQkfYCahcKEwjg2NGC4tn1AhUAAAAAHQAAAAAQAQ)
 
 「突然変異はランダムではない」から始まるツイートで話題になった論文について話し、ランダムな秋田談義をしました
