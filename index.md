@@ -9,6 +9,10 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ## Episodes
 
+### [ 16. The acedemic family tree on a blackboard](episodes/016.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+雑談をしました。
+
 ### [ 15. The aster the better](episodes/015.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
 
 マウス初期胚の 8-16 細胞期に特異的な紡錘体構造を発見した論文と「データ視覚化の人類史」という本を紹介しました。
