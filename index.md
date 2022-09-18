@@ -13,7 +13,7 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 雑談をしました。
 
-### [ 15. The aster the better](episodes/015.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+### [ 15. The aster the better](episodes/015.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/jp/podcast/15-the-aster-the-better/id1572672009?i=1000558191949) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/7j2dEiUewhbZGfCunZ4Lnl?si=921d05f78fe94d65) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/ZjJjZjQyM2YtZjRmYy00MzU0LTliYTgtNGNmMTUwZjlmZTAw?sa=X&ved=0CAUQkfYCahcKEwig1ILsm5_6AhUAAAAAHQAAAAAQNA)
 
 マウス初期胚の 8-16 細胞期に特異的な紡錘体構造を発見した論文と「データ視覚化の人類史」という本を紹介しました。
 
