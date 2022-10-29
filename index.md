@@ -13,7 +13,7 @@ StopCodon.fm は生物系の大学院生2人によるポッドキャスト番組
 
 ワークショップに参加した話や今年のノーベル医学・生理学賞を受賞した Pääbo 博士の著書の話をしました。
 
-### [ 16. The academic family tree on a blackboard](episodes/016.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+### [ 16. The academic family tree on a blackboard](episodes/016.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/jp/podcast/16-the-academic-family-tree-on-a-blackboard/id1572672009?i=1000579858430) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/4P70YP79XPEClTCnvj3J1G?si=8800a2054c014bc9) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/NGY3NjNlYTQtYzM5ZS00ZjZjLWE3OTktMWU5MzUxYTk3MDgw?sa=X&ved=0CAUQkfYCahcKEwjAi-iKuob7AhUAAAAAHQAAAAAQNA)
 
 雑談をしました。
 
