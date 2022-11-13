@@ -14,7 +14,7 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 HUSH 複合体がレトロエレメントをサイレンシングするメカニズムを調べた論文を紹介しました。
 
-### [ 17. Caught before summer break, released on Halloween](episodes/017.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+### [ 17. Caught before summer break, released on Halloween](episodes/017.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/jp/podcast/17-caught-before-summer-break-released-on-halloween/id1572672009?i=1000584355052) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/63WitboGI3vL6u89xNPdb3?si=f9f17ec15f0f46b8) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/NTg1MDQ0ZTAtN2Q1OS00ZTRlLWFjOWYtMWZkNDliNTMwNzlj?sa=X&ved=0CAUQkfYCahcKEwiw5d-y7av7AhUAAAAAHQAAAAAQNA)
 
 ワークショップに参加した話や今年のノーベル医学・生理学賞を受賞した Pääbo 博士の著書の話をしました。
 
