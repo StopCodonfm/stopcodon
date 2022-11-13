@@ -10,6 +10,10 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 ## Episodes
 
+### [ 18. Oh my HUSH!](episodes/018.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/64G8xNqMVldH1YZxHQlap9?si=475b1d8c506440a7) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+HUSH 複合体がレトロエレメントをサイレンシングするメカニズムを調べた論文を紹介しました。
+
 ### [ 17. Caught before summer break, released on Halloween](episodes/017.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
 
 ワークショップに参加した話や今年のノーベル医学・生理学賞を受賞した Pääbo 博士の著書の話をしました。
