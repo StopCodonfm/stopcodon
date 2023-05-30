@@ -10,6 +10,10 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 ## Episodes
 
+### [ 20. A life worth journaling](episodes/020.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]() <!--[<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/anchor.png" width="22px">](https://anchor.fm/stopcodon/episodes/1-e12slo5)-->
+
+
+
 ### [ 19. Colorless green ideas sweep flexibly](episodes/019.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
 
 イノベーションが「隠れた変異」によって起きるしくみについて論文紹介しました
