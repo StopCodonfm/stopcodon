@@ -14,7 +14,7 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 面白くないジャーナルクラブ、ナレッジベース、習慣、読書などについて徒然なるままに雑談しました。
 
-### [ 19. Colorless green ideas sweep flexibly](episodes/019.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/gb/podcast/19-colorless-green-ideas-sweep-flexibly/id1572672009?i=1000586192978) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/6eL0ONUqPKJXUutadkGKdw?si=c65530c1994842de) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/NTUyNWQ1NzYtZTliYy00YWRkLTg1OWEtNTMwZTk1ZjU1MDY4?sa=X&ved=0CAUQkfYCahcKEwjA8ZKq153_AhUAAAAAHQAAAAAQAQ)
+### [ 19. Colorless green ideas sweep flexibly](episodes/019.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/gb/podcast/19-colorless-green-ideas-sweep-flexibly/id1572672009?i=1000586192978) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/2ovXHlc8cTNpCWyOTspan9?si=0a4e547adbf249c8) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/NTUyNWQ1NzYtZTliYy00YWRkLTg1OWEtNTMwZTk1ZjU1MDY4?sa=X&ved=0CAUQkfYCahcKEwjA8ZKq153_AhUAAAAAHQAAAAAQAQ)
 
 イノベーションが「隠れた変異」によって起きるしくみについて論文紹介しました
 
