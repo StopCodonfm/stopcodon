@@ -10,7 +10,11 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 ## Episodes
 
-### [ 20. A life worth journaling](episodes/020.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]() <!--[<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/anchor.png" width="22px">](https://anchor.fm/stopcodon/episodes/1-e12slo5)-->
+### [ 21. Cooking pan-genomes](episodes/021.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+原核生物の汎ゲノムを解析してコア遺伝子群とアクセサリ遺伝子群の組換え頻度を解析した論文を頑張って紹介しました。
+
+### [ 20. A life worth journaling](episodes/020.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">](https://podcasts.apple.com/gb/podcast/20-a-life-worth-journaling/id1572672009?i=1000615043547) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">](https://open.spotify.com/episode/6eL0ONUqPKJXUutadkGKdw?si=a946d6b75d4c49fc) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YjY0MGVhMC9wb2RjYXN0L3Jzcw/episode/MjA0ZTZmNDktYzM1NS00MTljLTg3Y2EtNjIzYmQ1ZTE3NTE4?sa=X&ved=0CAUQkfYCahcKEwjw4vamz6-AAxUAAAAAHQAAAAAQaA) <!--[<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/anchor.png" width="22px">](https://anchor.fm/stopcodon/episodes/1-e12slo5)-->
 
 面白くないジャーナルクラブ、ナレッジベース、習慣、読書などについて徒然なるままに雑談しました。
 
