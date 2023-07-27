@@ -10,6 +10,10 @@ StopCodon.fm は生物系のポスドクと大学院生の2人によるポッド
 
 ## Episodes
 
+### [ 22. A time(-dependent) travel](episodes/022.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
+
+生物時計に関わる分子の核内局在に関する論文を紹介しました
+
 ### [ 21. Cooking pan-genomes](episodes/021.html) [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/apple-podcasts.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/spotify.png" width="22px">]() [<img src="https://raw.githubusercontent.com/StopCodonfm/stopcodon/main/logos/google-podcasts.png" width="22px">]()
 
 原核生物の汎ゲノムを解析してコア遺伝子群とアクセサリ遺伝子群の組換え頻度を解析した論文を頑張って紹介しました。
